@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "hbdfh",
+      "email": "dfhfgh@gmail.com",
+      "mobile": "8844556622",
+      "address": "fnbfg",
+      "services": "gnfg rgrf  rtht"
+    },
+    {
+      "id": 4,
+      "name": "aaaaa",
+      "email": "fghfgh@gmail.com",
+      "mobile": "7744558899",
+      "address": "dmvd ",
+      "services": "kdmk"
+    },
+    {
+      "id": 5,
+      "name": "dfldf",
+      "email": "flbdlf@gmail.com",
+      "mobile": "9955448811",
+      "address": "opgkdfpo",
+      "services": "fodpbpdfo"
+    }
+  ],
+  "comments": [],
+  "signup": [
+    {
+      "name": "sumit",
+      "mobile": "9923531401",
+      "email": "sumit@gmial.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "ankit",
+      "mobile": "8844556699",
+      "email": "ankit@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "zxc",
+      "mobile": "9955448822",
+      "email": "zxc@gmail.com",
+      "password": "123",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
